@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "store_id": "dengwii-zimaos-appstore-e2e",
+  "name": "Dengwii ZimaOS AppStore E2E",
+  "description": "Dedicated five-application source for ZimaOS WebUI E2E tests.",
+  "maintainer": "Dengwii",
+  "url": "https://github.com/Dengwii/ZimaOS-AppStore-E2E"
+}

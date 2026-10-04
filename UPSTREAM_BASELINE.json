@@ -1,0 +1,14 @@
+{
+  "source_repository": "https://github.com/Dengwii/CasaOS-AppStore",
+  "source_branch": "main",
+  "source_commit": "a09af500a108a5bbd812a23f9e323af87ce7d476",
+  "published_branch": "gh-pages",
+  "published_commit": "3902be53169983fdd0c3dab31259a2840db8086c",
+  "applications": {
+    "org.icewhale.ddnsgo": "Ddns-go",
+    "org.icewhale.vaultwarden": "Vaultwarden",
+    "org.icewhale.gitea": "Gitea",
+    "org.icewhale.sure": "Sure",
+    "org.icewhale.monica": "Monica"
+  }
+}

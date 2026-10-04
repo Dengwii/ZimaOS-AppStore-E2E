@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "updated_at": "2026-10-04T15:26:51.391858+00:00",
+  "app_count": 5,
+  "base_url": "https://raw.githubusercontent.com/Dengwii/ZimaOS-AppStore-E2E/main",
+  "apps": [
+    {
+      "id": "org.icewhale.ddnsgo",
+      "title": "ddns-go",
+      "tagline": "Simple and easy to use DDNS",
+      "category": "Networking",
+      "categories": [
+        "networking"
+      ],
+      "author": "zxxhz,Cp0204",
+      "developer": "jeessy2",
+      "architectures": [
+        "amd64",
+        "arm",
+        "arm64"
+      ],
+      "icon": "/apps/org.icewhale.ddnsgo/assets/icon.svg",
+      "thumbnail": "",
+      "compose_url": "/apps/org.icewhale.ddnsgo/docker-compose.yml",
+      "meta_url": "/apps/org.icewhale.ddnsgo/meta.json",
+      "content_hash": "7b264a6a",
+      "version": "6.17.1"
+    },
+    {
+      "id": "org.icewhale.gitea",
+      "title": "Gitea",
+      "tagline": "Self-hosted software development service",
+      "category": "Developer",
+      "categories": [
+        "developer"
+      ],
+      "author": "ZimaOS Team",
+      "developer": "Gitea",
+      "architectures": [
+        "amd64",
+        "arm64"
+      ],
+      "icon": "/apps/org.icewhale.gitea/assets/icon.svg",
+      "thumbnail": "/apps/org.icewhale.gitea/assets/thumbnail.webp",
+      "compose_url": "/apps/org.icewhale.gitea/docker-compose.yml",
+      "meta_url": "/apps/org.icewhale.gitea/meta.json",
+      "content_hash": "bdd79215",
+      "version": "1.26.2"
+    },
+    {
+      "id": "org.icewhale.monica",
+      "title": "Monica",
+      "tagline": "A Personal Relationship Management tool to help you document your social life.",
+      "category": "Social",
+      "categories": [
+        "social"
+      ],
+      "author": "monica",
+      "developer": "monica",
+      "architectures": [
+        "amd64",
+        "arm64"
+      ],
+      "icon": "/apps/org.icewhale.monica/assets/icon.svg",
+      "thumbnail": "",
+      "compose_url": "/apps/org.icewhale.monica/docker-compose.yml",
+      "meta_url": "/apps/org.icewhale.monica/meta.json",
+      "content_hash": "60b7ffd2",
+      "version": "4.1.2"
+    },
+    {
+      "id": "org.icewhale.sure",
+      "title": "Sure",
+      "tagline": "Personal finance management application",
+      "category": "Finance",
+      "categories": [
+        "finance"
+      ],
+      "author": "we-promise",
+      "developer": "we-promise",
+      "architectures": [
+        "amd64",
+        "arm64"
+      ],
+      "icon": "/apps/org.icewhale.sure/assets/icon.svg",
+      "thumbnail": "",
+      "compose_url": "/apps/org.icewhale.sure/docker-compose.yml",
+      "meta_url": "/apps/org.icewhale.sure/meta.json",
+      "content_hash": "cb29abaa",
+      "version": "0.6.5-hotfix.1"
+    },
+    {
+      "id": "org.icewhale.vaultwarden",
+      "title": "Vaultwarden",
+      "tagline": "A self-hosted Bitwarden server",
+      "category": "Productivity",
+      "categories": [
+        "productivity"
+      ],
+      "author": "ZimaOS Team",
+      "developer": "Daniel García",
+      "architectures": [
+        "amd64",
+        "arm",
+        "arm64"
+      ],
+      "icon": "/apps/org.icewhale.vaultwarden/assets/icon.svg",
+      "thumbnail": "/apps/org.icewhale.vaultwarden/assets/thumbnail.webp",
+      "compose_url": "/apps/org.icewhale.vaultwarden/docker-compose.yml",
+      "meta_url": "/apps/org.icewhale.vaultwarden/meta.json",
+      "content_hash": "ab25a19d",
+      "version": "1.36.0"
+    }
+  ]
+}
